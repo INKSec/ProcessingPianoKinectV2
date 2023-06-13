@@ -1,0 +1,6 @@
+# ignore ALL .log files
+*.log
+data/
+*.mp3
+*.wav
+*.ttf
